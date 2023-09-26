@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\components",
+    "\\components\\BackendActor",
+    "\\components\\dashboard",
+    "\\components\\dashboard\\aicontent",
+    "\\declarations"
+  ],
+  "SelectedNode": "\\components\\dashboard\\aicontent\\content.jsx",
+  "PreviewInSolutionExplorer": false
+}
